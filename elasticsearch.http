@@ -1,0 +1,26 @@
+@baseUrl=http://localhost:9200
+
+###
+GET {{baseUrl}}/_search
+content-type: application/json; charset=UTF-8
+
+{
+  "query": {
+    "match_all": {}
+  }
+}
+
+###
+PUT {{baseUrl}}/order
+
+###
+GET {{baseUrl}}/order
+
+###
+GET {{baseUrl}}/_cat/indices?v
+
+###
+DELETE {{baseUrl}}/order
+
+###
+POST {{baseUrl}}/order/_doc
