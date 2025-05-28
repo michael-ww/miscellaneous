@@ -1,9 +1,11 @@
 1. Could you tell me a bit about yourself?
 Sure. First of all, It's my honor to have the oppotunity to participate in this interview.
 
-My name is XXX, English name is XXX.
+My name is XXX, you can also call me XXX.
 
 I graduated from Central South University majoring in measurement and control technology and instruments.
+
+After graduation, I have been engaged in software development.
 
 Over the years, I have been deeply involved in a variety of software projects across different industries. I have led teams to design and develop scalable, reliable and high-performance software systems. One of my key strengths is the ability to understand complex business requirements and translate them into technical solutions.
 
@@ -101,13 +103,13 @@ Any company will have overtime situations, which is inevitable and acceptable. I
 1. When will you be able to get to work?
 I can get to work within two weeks after receciving the offer.
 
-1.  What are your salary expectations?
+1. What are your salary expectations?
 Could you please briefly introduce the company's salary structure and benefits?
 Based on both my experience and the work expected in the position, I am looking for around 65K
 Supplementary provident fund RSU total package is about 600K
 I would like to make at least twenty thousand more than my current position.
 
-1.  Do you have any other offers?
+1. Do you have any other offers?
 Not yet. I started looking for a job after China New Year, and my resume was only submitted to my desired companies.
 at present, one company has entered the second round, and another company has invited to participate in the first round next week, but overall, I still prefer your company. Because both in terms of development prospect and personal growth, your company is a good choice and aligns with my career plan. I hope to have the opportunity to work together.
 
